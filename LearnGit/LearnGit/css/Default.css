@@ -1,5 +1,18 @@
 ﻿body {
-    font-size:19px;color:aqua;font-family:Arial;
+    font-size: 19px;
+    color: aqua;
+    font-family: Arial;
 }
-.book{background-color:palevioletred;color:blueviolet}
-.rows{color: #fff}
+
+.book {
+    background-color: palevioletred;
+    color: blueviolet;
+}
+
+.rows {
+    color: #fff;
+}
+
+.head {
+    margin-top: 5px;
+}
