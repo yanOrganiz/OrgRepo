@@ -8,8 +8,14 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div style="border:1px solid black">
-     Hello,everbody!
+    <div>
+    <table style="border:1px solid black">
+        <tr>
+            <td>
+               Hello,everybody!
+            </td>
+        </tr>
+    </table>
     </div>
     </form>
 </body>
