@@ -16,6 +16,11 @@
                     <td>create a mark into mywork branc
                     </td>
                 </tr>
+                <tr>
+                    <td>
+                        I want to merge this to repo.create a Pull request.
+                    </td>
+                </tr>
             </table>
         </div>
     </form>
