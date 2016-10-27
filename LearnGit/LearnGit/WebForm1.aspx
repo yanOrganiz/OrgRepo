@@ -8,20 +8,16 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    <table style="border:1px solid black">
-        <tr>
-            <td>
-               Hello,everybody!
-            </td>
-<td>
-create a mark into mywork branc
-</td>
-        </tr>
-    </table>
-    
-  
-    </div>
+        <div>
+            <table style="border: 1px solid black">
+                <tr>
+                    <td>Hello,everybody!
+                    </td>
+                    <td>create a mark into mywork branc
+                    </td>
+                </tr>
+            </table>
+        </div>
     </form>
 </body>
 </html>
