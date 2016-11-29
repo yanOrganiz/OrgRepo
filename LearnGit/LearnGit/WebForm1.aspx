@@ -23,9 +23,10 @@
                 </tr>
                 <tr>
                     <td>
-                        I want to merge this to repo.create a Pull request.
+                        create a Pull request.
                     </td>
                 </tr>
+
             </table>
         </div>
     </form>
