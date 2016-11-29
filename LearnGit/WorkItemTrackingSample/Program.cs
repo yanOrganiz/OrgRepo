@@ -11,7 +11,7 @@ namespace WorkItemTrackingSample
             {
                 sum += i;
             }
-            Console.WriteLine("sum:" + sum);
+            Console.WriteLine("try to sum:" + sum);
         }
     }
 }
