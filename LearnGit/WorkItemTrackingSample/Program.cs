@@ -7,6 +7,7 @@ namespace WorkItemTrackingSample
         static void Main(string[] args)
         {
             int sum = 0;
+
             for(int i=0;i<16;i++)
             {
                 sum += i;
