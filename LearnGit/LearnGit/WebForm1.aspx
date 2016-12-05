@@ -28,6 +28,13 @@
                 </tr>
                 <tr><td></td></tr>
             </table>
+            <table>
+                <tr>
+                    <td>
+                        New pull request!
+                    </td>
+                </tr>
+            </table>
         </div>
     </form>
 </body>
