@@ -34,6 +34,9 @@
                     <td>
                         New pull request!
                     </td>
+                    <td>
+                        Lock master!
+                    </td>
                 </tr>
             </table>
         </div>
