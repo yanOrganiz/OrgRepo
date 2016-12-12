@@ -10,7 +10,8 @@ namespace WorkItemTrackingSample
 
             for(int i=0;i<16;i++)
             {
-                sum += i;
+                sum += i;  
+
             }
             Console.WriteLine("try to sum:" + sum);
         }
