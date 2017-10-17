@@ -23,6 +23,7 @@
                         change from GitHub
                         change after rename
                         cann't trigger CI build
+                        need to add a new endpoint
                     </td>
                 </tr>
                 <tr>
