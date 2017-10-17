@@ -22,6 +22,7 @@
                         kkkk
                         change from GitHub
                         change after rename
+                        cann't trigger CI build
                     </td>
                 </tr>
                 <tr>
