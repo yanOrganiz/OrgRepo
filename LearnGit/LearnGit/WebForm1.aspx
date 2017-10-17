@@ -21,6 +21,7 @@
                         OMG
                         kkkk
                         change from GitHub
+                        change after rename
                     </td>
                 </tr>
                 <tr>
