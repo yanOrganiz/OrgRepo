@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="LearnGit.WebForm1" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="LearnGit.WebForm1" %>
 
 <!DOCTYPE html>
 
@@ -20,6 +20,7 @@
                     <td>
                         OMG
                         kkkk
+                        change from GitHub
                     </td>
                 </tr>
                 <tr>
